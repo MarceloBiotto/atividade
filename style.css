@@ -1,4 +1,37 @@
 *{
     margin:0;
     padding: 0;
+    box-sizing: border-box;
+}
+body{
+   background-color: #AEDEFC;
+}
+
+.header{
+    background-color:#FFDFDF ;
+
+}
+.container{
+    display: flex;
+    justify-content: left;
+    gap: 3rem;
+    padding: 1rem;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.titulo{
+    font-size: 3rem;
+}
+
+.minha-descricao{
+    font-size: 2rem;
+}
+
+
+
+.minha-foto{
+    border-radius: 5.5rem;
+    width: 15.5rem;
 }
