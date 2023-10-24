@@ -35,3 +35,71 @@ body{
     border-radius: 5.5rem;
     width: 15.5rem;
 }
+
+.titulo-experiencia{
+    font-size: 2rem;
+    text-align: center;
+    margin-right: 20rem;
+}
+
+.experiencia{
+    background-color: #FFF6F6;
+    padding: 1rem;
+}
+
+.lista-experiencia{
+    text-align: center;
+    margin-right: 20rem;
+    font-size: 2rem;
+    padding: 1rem;
+    list-style: none;
+}
+
+.educacao{
+    background-color: #F875AA;
+    padding: 1rem;
+}
+
+.habilidades{
+    padding: 1rem;
+    background-color: #FFF6F6;
+}
+
+.minha-foto:hover{
+    width: 17rem;
+}
+.footer{
+    align-items: center;
+    
+  
+}
+.logo-footer{
+    width: 2rem;
+    
+}
+.nome-contato{
+    align-items: center;
+    padding: 1.2rem;
+    color: white;
+   
+}
+.rodape{
+    display: flex;
+    justify-content: center;
+    font-size: 2rem;
+    height: 15rem;
+    background-color: #3c5e74;
+}
+
+.link-rodape{
+    text-align: center;
+    margin-top: 1rem;
+    text-decoration: none;
+    color: white;
+    margin-right: 20rem;
+
+}
+
+.link-rodape:hover{
+    color: red;
+}
